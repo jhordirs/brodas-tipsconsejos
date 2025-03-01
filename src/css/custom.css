@@ -1,0 +1,150 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #4b98d2;
+  --ifm-color-primary-dark: #348bcc;
+  --ifm-color-primary-darker: #3083c2;
+  --ifm-color-primary-darkest: #286ca0;
+  --ifm-color-primary-light: #62a5d8;
+  --ifm-color-primary-lighter: #6dacdb;
+  --ifm-color-primary-lightest: #8fbfe3;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #fcbf3b;
+  --ifm-color-primary-dark: #fcb51c;
+  --ifm-color-primary-darker: #fbb00d;
+  --ifm-color-primary-darkest: #d69403;
+  --ifm-color-primary-light: #fcc95a;
+  --ifm-color-primary-lighter: #fdce69;
+  --ifm-color-primary-lightest: #fddd97;
+
+}
+
+.raid_sidebar_header > div > a::before {
+  content: url('/img/raid.png');
+  margin-top: .25rem;
+  margin-right: .5rem;
+  zoom: 14%;
+}
+
+.dungeon_sidebar_header > div > a::before {
+  content: url('/img/dungeon.png');
+  margin-top: .25rem;
+  margin-right: .5rem;
+  zoom: 14%;
+}
+
+.exotic_sidebar_header > div > a::before {
+  content: url('/img/exotic.png');
+  margin-top: .25rem;
+  margin-right: .5rem;
+  zoom: 14%;
+}
+
+.home_sidebar_header > div > a::before {
+  content: url('/img/home.png');
+  margin-top: .25rem;
+  margin-right: .5rem;
+  zoom: 14%;
+  }
+
+.navbar__inner .github-button,
+
+.navbar__inner .discord-button {
+  font-size: 1;
+  display: flex;
+  border-radius: var(--ifm-breadcrumb-border-radius);
+  padding: var(--ifm-navbar-item-padding-vertical) var(--ifm-navbar-item-padding-horizontal);
+}
+
+.navbar__inner .github-button *,
+
+.navbar__inner .discord-button * {
+  display: none;
+}
+
+.navbar__inner .github-button:before,
+
+.navbar__inner .discord-button:before {
+  content: '';
+  width: 24px;
+  height: 22px;
+  display: block;
+}
+
+.navbar__inner .discord-button:before {
+  background: url('/img/discord.svg') no-repeat;
+  margin: 3px 0 0 0px;
+}
+
+.navbar__inner .github-button:before {
+  background: url('/img/github.svg') no-repeat;
+  margin: 1px 0 0 0px;
+}
+
+.hidden {
+  display: none !important;
+}
+
+
+.navbar,
+.navbar-sidebar__brand {
+  background: rgb(77,50,4);
+  background: linear-gradient(138deg, rgba(77,50,4,1) 0%, rgba(170,121,0,1) 27%, rgba(215,163,38,1) 69%, rgba(161,114,4,1) 100%);
+  background-color: #000;
+  box-shadow: 0 0 10px #0006;
+}
+
+.navbar__logo img {
+  filter: drop-shadow(1px 1px 2px #0003);
+}
+
+.navbar__inner,
+.navbar__inner a,
+.navbar__inner a:hover,
+.navbar-sidebar__brand,
+.navbar-sidebar__brand a,
+.navbar-sidebar__brand a:hover {
+  color: #fff;
+}
+
+.navbar__inner .navbar__item {
+  transition: background var(--ifm-transition-fast);
+  border-radius: var(--ifm-global-radius);
+  margin: 0 .1rem;
+  padding: var(--ifm-navbar-item-padding-vertical) calc(var(--ifm-navbar-item-padding-horizontal) - .1rem);
+}
+
+.navbar__inner .navbar__item:hover,
+.navbar__inner .clean-btn:hover,
+.navbar-sidebar__brand .clean-btn:hover,
+.navbar__inner .dropdown__link:hover {
+  background-color: #fff3;
+}
+
+.navbar__inner .navbar__item.navbar__link--active,
+.navbar__inner .dropdown__link.dropdown__link--active {
+  background-color: #fff2;
+}
+
+.navbar-sidebar__close {
+  --ifm-color-emphasis-600: #fff;
+}
+
+.navbar__toggle.clean-btn:hover,
+.navbar-sidebar__close.clean-btn:hover {
+  background: none;
+}
+
+.navbar__inner .dropdown__menu {
+  background: #0c040ecc;
+  border: 1px solid #fff3;
+  backdrop-filter: blur(1rem);
+}
