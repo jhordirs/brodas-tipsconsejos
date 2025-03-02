@@ -108,7 +108,7 @@ const config = {
             "title": 'Servidor de BRODAS',
           },
           {
-            href: 'https://github.com/',
+            href: 'https://github.com/jhordirs/brodas-tipsconsejos',
             className: 'github-button',
             position: 'right',
             label: ' GitHub',
