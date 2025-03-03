@@ -34,7 +34,7 @@ import braytech from '/img/braytech.png';
 
 ## D2Checkpoint: Bot de checkpoints
 
-Herramienta que provee checkpoints de los encuentros de incurciones y mazmorras más populares.
+Herramienta que provee checkpoints de los encuentros de incursiones y mazmorras más populares.
 
 **Enlace:** [**D2Checkpoint**](https://d2checkpoint.com/)
 
