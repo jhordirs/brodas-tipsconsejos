@@ -4,6 +4,10 @@ sidebar_position: 10
 
 # Doctrina Desgarrada
 
+## PRUEBA
+
+XDDDDDDDDDDDDDDDDDDDDDDD
+
 ## Símbolos
 
 import doctrinasimbolos from '/img/doctrinasimbolos.png';
