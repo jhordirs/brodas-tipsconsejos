@@ -22,12 +22,12 @@ const config = {
   url: 'https://jhordirs.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/brodas-tipsconsejos/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jhordirs', // Usually your GitHub org/user name.
-  projectName: 'brodas-tips-y-consejos', // Usually your repo name.
+  projectName: 'brodas-tipsconsejos', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -108,7 +108,7 @@ const config = {
             "title": 'Servidor de BRODAS',
           },
           {
-            href: 'https://github.com/',
+            href: 'https://github.com/jhordirs/brodas-tipsconsejos',
             className: 'github-button',
             position: 'right',
             label: ' GitHub',
