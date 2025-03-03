@@ -4,6 +4,10 @@ sidebar_position: 10
 
 # Doctrina Desgarrada
 
+## Aventura de la pirámide - Guía Completa
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-bUuf7p2NFE?si=Pt3m1gOwoQXbMQWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Símbolos
 
 import doctrinasimbolos from '/img/doctrinasimbolos.png';
