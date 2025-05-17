@@ -99,6 +99,21 @@ const config = {
             position: 'left',
             label: 'FAQ',
           },
+          {
+            type: 'dropdown',
+            label: 'Herramientas',
+            position: 'left',
+            items: [
+              {
+                label: 'Veracidad',
+                to: 'https://jhordirs.github.io/veracidad/',
+              },
+              {
+                label: 'Simulador (Veracidad)',
+                to: 'https://jhordirs.github.io/simuladorafuera/'
+              },
+            ],
+          },
           //{to: '/otros', label: 'Blog', position: 'left'},
           {
             href: 'https://discord.gg/7FefcCQ',
