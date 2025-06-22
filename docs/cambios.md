@@ -12,5 +12,5 @@ sidebar_class_name: hidden
 - Se agregó un registro de cambios de la web. (clic en el [**v3**](/cambios) del [**Inicio**](/))
 
 ## v3.25.2
-- Se agregó video de cofre borde rojo para las incursiónes Voto del discipulo y El Fin de Crota.
+- Se agregó video de cofre borde rojo para las incursiones Voto del Discípulo y Fin de Crota.
 
