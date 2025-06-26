@@ -105,12 +105,13 @@ const config = {
             position: 'left',
             items: [
               {
-                label: 'Veracidad',
+                label: 'Ayudante (Veracidad)',
                 to: 'https://jhordirs.github.io/veracidad/',
+                
               },
               {
                 label: 'Simulador (Veracidad)',
-                to: 'https://jhordirs.github.io/simuladorafuera/'
+                to: 'https://luciopalmucci.github.io/practica-veracidad/'
               },
             ],
           },

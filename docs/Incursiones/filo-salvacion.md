@@ -66,6 +66,12 @@ import herramienta3 from '/img/herramienta3.png';
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCT5RNyu8Y0?si=5DQhu3EZzEH4YjeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## 4to Encuentro - Herramienta de práctica (Veracidad)
+
+**Enlace:** [**Herramienta de práctica (Veracidad)**](https://luciopalmucci.github.io/practica-veracidad/) (Créditos: Lucio)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XmkXT-gzMoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 5to Encuentro - Guía para corredores
 
 import manos from '/img/manos.png';

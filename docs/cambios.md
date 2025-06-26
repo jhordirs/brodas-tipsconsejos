@@ -14,3 +14,7 @@ sidebar_class_name: hidden
 ## v3.25.2
 - Se agregó video de cofre borde rojo para las incursiones Voto del Discípulo y Fin de Crota.
 
+## v3.25.3
+- Se agregó video guía de la nueva herramienta de práctica de Veracidad - Filo de la Salvación.
+- Se actualizó el menú de acceso rápido para agregar la nueva herramienta de práctica.
+
