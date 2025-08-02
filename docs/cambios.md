@@ -18,3 +18,7 @@ sidebar_class_name: hidden
 - Se agregó video guía de la nueva herramienta de práctica de Veracidad - Filo de la Salvación.
 - Se actualizó el menú de acceso rápido para agregar la nueva herramienta de práctica.
 
+## v3.25.4
+- Se agregó una nueva categoría para la incursión Desierto Perpetuo.
+- Se agregó mapa guía para la entrada de la incursión Desierto Perpetuo.
+- Se agregó video guía para los cofres secretos de la incursión Desierto Perpetuo.
