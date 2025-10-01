@@ -148,3 +148,11 @@
   border: 1px solid #fff3;
   backdrop-filter: blur(1rem);
 }
+
+.medium-zoom-overlay {
+  z-index: 999 !important;
+}
+
+.medium-zoom-image--opened {
+  z-index: 1000 !important;
+}
