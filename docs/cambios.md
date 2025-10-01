@@ -24,5 +24,6 @@ sidebar_class_name: hidden
 - Se agregó video guía para los cofres secretos de la incursión Desierto Perpetuo.
 
 ## v3.25.5
-- Se agregaron guías visuales para Iatros (Wyverno) y Koregos (Boss final) en la incursión Desierto Perpetuo (Épico)
+- Se agregó Desierto Perpetuo (Épico) para la categoría incursiones.
+- Se agregaron guías visuales para Iatros (Wyverno) y Koregos (Boss final) en la incursión Desierto Perpetuo (Épico).
 - Se implementó un fix para que la barra de navegación superior no sobreponga las imágenes al hacer zoom.
